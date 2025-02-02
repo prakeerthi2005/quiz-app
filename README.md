@@ -91,7 +91,12 @@ Quiz Page
 Displays the user's score with an option to restart the quiz.
 
 ![alt text](image-1.png)
+
 ---
+### 2. Working video
+
+<video controls src="20250202-1654-57.2996542.mp4" title="video of quiz web application"></video>
+
 
 ## **Future Enhancements**
 1. Add a leaderboard to compare scores with other users.
@@ -106,8 +111,3 @@ Displays the user's score with an option to restart the quiz.
 
 ---
 
-Feel free to reach out if you have any questions or suggestions!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/50042861/dbd44da9-7c31-4ce3-a5b0-9ffc5acfa98a/paste.txt
-[2] https://pplx-res.cloudinary.com/image/upload/v1738508398/user_uploads/uzYpagiZRXuQnFp/image.jpg
