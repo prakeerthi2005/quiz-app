@@ -5,6 +5,13 @@ This is a web-based quiz application that integrates gamification features to en
 
 ---
 
+## **watch demo in app_demo**
+-\app_demo
+ 
+
+---
+
+
 ## **Features**
 1. **Start Quiz**: Users can begin the quiz by clicking the "Start Quiz" button.
 2. **Multiple-Choice Questions**: Each question has multiple options, and users can select one.
