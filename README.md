@@ -85,12 +85,12 @@ https://api.jsonserve.com/Uw5CrX
 ### 1. Quiz Page
 Quiz Page
 
-![alt text](image.png)
+![alt text](./app_demos/image.png)
 
 ### 2. Results Page
 Displays the user's score with an option to restart the quiz.
 
-![alt text](image-1.png)
+![alt text](./app_demos/image-1.png)
 
 ---
 
