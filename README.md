@@ -93,9 +93,6 @@ Displays the user's score with an option to restart the quiz.
 ![alt text](image-1.png)
 
 ---
-### 2. Working video
-
-<video controls src="20250202-1654-57.2996542.mp4" title="video of quiz web application"></video>
 
 
 ## **Future Enhancements**
